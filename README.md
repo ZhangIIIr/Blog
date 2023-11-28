@@ -3,7 +3,7 @@
 [https://zhangiiir.github.io](https://zhangiiir.github.io)
 
 ## 文章目录
-安卓手机传送文本给苹果电脑
+安卓手机传送文本给苹果电脑  
 关于善的一点小事  
 一些节省时间的方法  
 有关练功的只言片语-201812  
