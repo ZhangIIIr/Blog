@@ -1,9 +1,9 @@
 # My Personal Blog
-自从 GitHub Private Repository Pages 只面向付费用户后，博客的写作历史就全公开了，所以仅在Pages展示index，而将文章内容托管在notion上，这样，既隔离了编辑历史，又可以方便地在notion上更新。希望notion晚一点收回免费用户的文章发布权限。
 ## 访问地址
 [https://zhangiiir.github.io](https://zhangiiir.github.io)
+
 ## 文章目录
-安卓手机传送文本给苹果电脑
+
 关于善的一点小事  
 一些节省时间的方法  
 有关练功的只言片语-201812  
